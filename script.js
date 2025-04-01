@@ -64,7 +64,7 @@ const aboutButton = document.querySelector('.about-button');
 if (aboutButton) {
     aboutButton.addEventListener('click', () => {
         // Redirect to the About page
-        window.location.href = 'https://github.com/yaroboyy'; // Replace with your About URL
+        window.location.href = 'https://personal-portfolio-website-about-page-6m2k.vercel.app/'; // Replace with your About URL
     });
 }
 
