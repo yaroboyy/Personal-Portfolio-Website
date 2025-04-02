@@ -84,7 +84,7 @@ document.querySelectorAll('.hero .left-section .bottom .icons i').forEach(icon =
         const iconClass = icon.className;
 
         if (iconClass.includes('ri-snapchat-line')) {
-            window.open('https://www.snapchat.com/add/your-username', '_blank'); // Change to your Snapchat
+            window.open('https://snapchat.com/t/E1z6ocMF', '_blank'); // Change to your Snapchat
         } else if (iconClass.includes('ri-twitter-x-line')) {
             window.open('https://twitter.com/your-username', '_blank'); // Change to your Twitter
         } else if (iconClass.includes('ri-instagram-line')) {
