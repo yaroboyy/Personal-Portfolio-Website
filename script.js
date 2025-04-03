@@ -86,9 +86,9 @@ document.querySelectorAll('.hero .left-section .bottom .icons i').forEach(icon =
         if (iconClass.includes('ri-snapchat-line')) {
             window.open('https://snapchat.com/t/E1z6ocMF', '_blank'); // Change to your Snapchat
         } else if (iconClass.includes('ri-twitter-x-line')) {
-            window.open('https://twitter.com/your-username', '_blank'); // Change to your Twitter
+            window.open('https://twitter.com/DanYaroshyk', '_blank'); // Change to your Twitter
         } else if (iconClass.includes('ri-instagram-line')) {
-            window.open('https://www.instagram.com/your-username', '_blank'); // Change to your Instagram
+            window.open('https://www.instagram.com/dyaroshyk', '_blank'); // Change to your Instagram
         }
     });
 });
